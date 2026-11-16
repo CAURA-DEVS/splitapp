@@ -1,1 +1,1 @@
-# splitapp
+# SplitApp – Gastos compartidos.
