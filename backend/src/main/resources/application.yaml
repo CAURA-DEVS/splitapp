@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: backend
+  datasource:
+    url: jdbc:postgresql://localhost:5432/splitapp
+    username: splitapp
+    password: splitapp
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
